@@ -1,0 +1,7 @@
+
+[brick]
+name = "UUID"
+version = "0.1.0"
+chplVersion = "1.17.0"
+
+[dependencies]
